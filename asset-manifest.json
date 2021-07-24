@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/snowtrapdex/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/snowtrapdex/static/js/main.87446fa7.chunk.js",
+    "main.js.map": "/snowtrapdex/static/js/main.87446fa7.chunk.js.map",
+    "runtime-main.js": "/snowtrapdex/static/js/runtime-main.36549203.js",
+    "runtime-main.js.map": "/snowtrapdex/static/js/runtime-main.36549203.js.map",
+    "static/css/2.fa0361a9.chunk.css": "/snowtrapdex/static/css/2.fa0361a9.chunk.css",
+    "static/js/2.02cc462b.chunk.js": "/snowtrapdex/static/js/2.02cc462b.chunk.js",
+    "static/js/2.02cc462b.chunk.js.map": "/snowtrapdex/static/js/2.02cc462b.chunk.js.map",
+    "static/js/3.31334235.chunk.js": "/snowtrapdex/static/js/3.31334235.chunk.js",
+    "static/js/3.31334235.chunk.js.map": "/snowtrapdex/static/js/3.31334235.chunk.js.map",
+    "index.html": "/snowtrapdex/index.html",
+    "static/css/2.fa0361a9.chunk.css.map": "/snowtrapdex/static/css/2.fa0361a9.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/snowtrapdex/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.02cc462b.chunk.js.LICENSE.txt": "/snowtrapdex/static/js/2.02cc462b.chunk.js.LICENSE.txt",
+    "static/media/snowman.4ba2dff9.png": "/snowtrapdex/static/media/snowman.4ba2dff9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36549203.js",
+    "static/css/2.fa0361a9.chunk.css",
+    "static/js/2.02cc462b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.87446fa7.chunk.js"
+  ]
+}
