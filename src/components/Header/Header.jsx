@@ -25,7 +25,10 @@ const Logo = styled.img`
 
 `;
 
-
+const Small = styled.div`
+    font-size: 1rem;
+    display: inline-block;
+`;
 
 export default class Header extends Component {
     render() {
@@ -34,11 +37,11 @@ export default class Header extends Component {
                 <Heady>
                     <Logo src={snowman} alt="logo" />
                     <H1 className="App-title">
-                        Snowtrap DEX
+                        Snowtrap DEX <Small>v2</Small>
                     </H1>
 
                 </Heady>
             </DIVAPP>
         );
     }
-}
+} 
